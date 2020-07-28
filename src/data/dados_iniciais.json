@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "Bebê",
+      "titulo": "Front-End",
       "link": "https://www.phweb.com.br",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Minnha infância ",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Novidades",
+        "url": "https://youtu.be/BbwTTLB6Mik"
       },
       "videos": [
         {
           "titulo": "Primeira coreografia da Maria Eduarda",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "url": "https://youtu.be/BbwTTLB6Mik"
         },
         {
           "titulo": "SEO com React",
